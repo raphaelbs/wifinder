@@ -1,0 +1,19 @@
+{
+  "name": "wifinder",
+  "version": "1.2.1",
+  "description": "WiFinder automatically connects your Espruino to one of your predefined networks.",
+  "main": "WiFinder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Espruino",
+    "Wifi",
+    "auto-connect",
+    "ESP8266"
+  ],
+  "author": {
+    "name": "Raphael Brandão"
+  },
+  "license": "MIT"
+}
