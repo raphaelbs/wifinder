@@ -12,6 +12,10 @@
     "auto-connect",
     "ESP8266"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelbs/wifinder.git"
+  },
   "author": {
     "name": "Raphael Brandão"
   },
